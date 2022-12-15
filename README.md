@@ -1,4 +1,5 @@
 1# Ibrahim
+
 2 pkg update 
 
 pkg upgrade 
@@ -18,3 +19,5 @@ git clone https://github.com/Jani555/Ibrahim.git
 cd Ibrahim
 
 python  fuck-love
+
+KOch Has Ni
